@@ -121,6 +121,6 @@ Credits are to be given for the notification sound:
 - [Notification Sound](https://pixabay.com/sound-effects/notifications-sound-127856/)
 
 #### Inspirations
-As I have used similar alternatives at some point in my developer journey, some inspirations have been taken from them and they ought to be credited here:
+As I have used similar alternatives at some point in my developer journey, some inspirations have been taken from them and they ought to be credited here:-
 - [Tidio](https://www.tidio.com/)
 - [React Simple Chatbot](https://github.com/LucasBassetti/react-simple-chatbot)
