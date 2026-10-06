@@ -1,4 +1,4 @@
-### Contributing
+### Contributing:
 
 If you are looking to contribute to the project, you are **strongly encouraged** to open a [**GitHub issue**](https://github.com/react-chatbotify/react-chatbotify/issues) describing what you intend to do (e.g. fix a bug). The **exception** to this is if you're only making **very minor changes such as typos**. If in doubt, it doesn't hurt to just create an issue.
 
